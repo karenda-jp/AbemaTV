@@ -32,9 +32,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u
 #EXTINF:-1 tvg-id="90s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,なつかしアニメ90's
 https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="doraemon-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/doraemon-special/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ドラえもん特設チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/doraemon-special/playlist.m3u8
-
 #EXTINF:-1 tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ファミリーアニメ
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
 
@@ -91,6 +88,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/world-sports-2/playlist.
 
 #EXTINF:-1 tvg-id="baseball-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/baseball-anime/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,野球アニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/baseball-anime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="world-sports-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-3/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,SPORTS LIVE 3チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/world-sports-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
