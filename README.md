@@ -1,6 +1,7 @@
 
 abemaTV 240P 視聴用の M3Uリストです。
 
+AbemaTV 公式サイト ↓
 https://abema.tv/
 
 
@@ -11,4 +12,10 @@ https://abema.tv/
 結構な頻度でチャンネルが変更になる場合があります。
 気づいたら更新するかも？
 
+IPTV Natorでリストを再生した際の動画  ↓
 [![動画]()](https://www.youtube.com/watch?v=UabBvfok2SI)
+
+
+IPTV Nator Windows版は　setup.exe ↓
+https://github.com/4gray/iptvnator/releases
+
