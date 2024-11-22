@@ -29,3 +29,8 @@ https://github.com/4gray/iptvnator/releases
 ※APIより直接取得した生データから生成しているため
 実際のサイトで表記を変更している場合は異なる可能性があります。
 
+私のWEBサイトはコチラです。
+
+My Youtube Channell URL is -->> https://youtube.com/@K_A_R_E_N  
+
+My Homepage URL is -->> https://hls.jpn.org/  
