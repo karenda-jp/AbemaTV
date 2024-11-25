@@ -33,4 +33,4 @@ https://github.com/4gray/iptvnator/releases
 
 My Youtube Channell URL is -->> https://youtube.com/@K_A_R_E_N 
 
--_-p も見てね。　-->> https://github.com/karenda-jp/
+
