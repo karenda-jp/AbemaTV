@@ -5,7 +5,7 @@ AbemaTV 公式サイト ↓
 
 https://abema.tv/
 
-"">> Japanese IP Only <<""
+## "">> Japanese IP Only <<""
 恐らく、日本のIPアドレス以外では視聴不可だと思います。
 
 画質が240P固定なのはご愛敬。高画質で楽しむなら直接ブラウザで視聴しましょう。
@@ -31,6 +31,6 @@ https://github.com/4gray/iptvnator/releases
 
 私のWEBサイトはコチラです。
 
-My Youtube Channell URL is -->> https://youtube.com/@K_A_R_E_N  
+My Youtube Channell URL is -->> https://youtube.com/@K_A_R_E_N 
 
-My Homepage URL is -->> https://hls.jpn.org/  
+-_-p も見てね。
