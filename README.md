@@ -21,7 +21,7 @@ IPTVnatorでリストを再生した際の動画  ↓
 [![動画]()](https://www.youtube.com/watch?v=UabBvfok2SI)
 
 
-IPTVnator Windows版は　setup.exe ↓
+IPTVnator Windows版は　setup.exe ↓　"0.15.1"が私的におすすめ。　最新Betaとは互換性が無い模様。
 
 https://github.com/4gray/iptvnator/releases
 
