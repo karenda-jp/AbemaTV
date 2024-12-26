@@ -29,6 +29,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 #EXTINF:-1 tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,アニメSPECIALチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
 
+#EXTINF:-1 tvg-id="kochikame" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/kochikame/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,こち亀チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/kochikame/playlist.m3u8
+
 #EXTINF:-1 tvg-id="hokuto-no-ken" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hokuto-no-ken/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,北斗の拳チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/hokuto-no-ken/playlist.m3u8
 
