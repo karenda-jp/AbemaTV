@@ -5,6 +5,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
 #EXTINF:-1 tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,ABEMA NEWS会見チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="special-plus-0" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-0/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,スペシャルWEEKチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-0/playlist.m3u8
+
 #EXTINF:-1 tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,ABEMA SPECIALチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
 
@@ -20,6 +23,12 @@ https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u
 #EXTINF:-1 tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ABEMA アニメチャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="abema-anime-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ABEMA アニメチャンネル3
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monogatari" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/monogatari/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,物語シリーズチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/monogatari/playlist.m3u8
+
 #EXTINF:-1 tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,ドラマ映画チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8
 
@@ -28,6 +37,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,アニメSPECIALチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ojamajo-doremi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/ojamajo-doremi/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,おジャ魔女どれみチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/ojamajo-doremi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kochikame" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/kochikame/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,こち亀チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/kochikame/playlist.m3u8
@@ -118,6 +130,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,SPORTSチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="boxing" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,ボクシングチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/boxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
