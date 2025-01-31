@@ -26,9 +26,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 #EXTINF:-1 tvg-id="hokuto-no-ken" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hokuto-no-ken/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,北斗の拳チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/hokuto-no-ken/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gundam" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ガンダム特集
-https://ds-linear-abematv.akamaized.net/preview/channel/gundam/playlist.m3u8
-
 #EXTINF:-1 tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,なつかしアニメ80's
 https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
 
@@ -100,9 +97,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,SPORTSチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sumo" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,大相撲チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
