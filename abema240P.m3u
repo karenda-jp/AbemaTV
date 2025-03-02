@@ -62,6 +62,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.
 #EXTINF:-1 tvg-id="family-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ファミリーアニメ２
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="macross" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,マクロスチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/macross/playlist.m3u8
+
 #EXTINF:-1 tvg-id="gundam" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ガンダム特集
 https://ds-linear-abematv.akamaized.net/preview/channel/gundam/playlist.m3u8
 
