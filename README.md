@@ -37,8 +37,6 @@ https://github.com/4gray/iptvnator/releases<br/>
 
 <br/>
 
-### EPGデータ 提供ありがとう "dbghelp" https://github.com/dbghelp/Abema-TV-EPG/
-<br/>
 ---
 私のWEBサイトはコチラです。<br/>
 My Youtube Channell URL is -->> https://youtube.com/@K_A_R_E_N<br/> 
