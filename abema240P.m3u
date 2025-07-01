@@ -65,6 +65,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.
 #EXTINF:-1 tvg-id="dragonball" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ドラゴンボールチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/dragonball/playlist.m3u8
 
+#EXTINF:-1 tvg-id="yugioh" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/yugioh/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,遊☆戯☆王チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/yugioh/playlist.m3u8
+
 #EXTINF:-1 tvg-id="gundam" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ガンダム特集
 https://ds-linear-abematv.akamaized.net/preview/channel/gundam/playlist.m3u8
 
