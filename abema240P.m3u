@@ -17,17 +17,11 @@ https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u
 #EXTINF:-1 tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ABEMA アニメチャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="abema-anime-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ABEMA アニメチャンネル3
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメSPECIALチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメSPECIAL2チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="anime-matsuri" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-matsuri/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ABEMAアニメ祭チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/anime-matsuri/playlist.m3u8
 
 #EXTINF:-1 tvg-id="heroaca" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/heroaca/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,僕のヒーローアカデミアチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/heroaca/playlist.m3u8
@@ -53,11 +47,11 @@ https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlis
 #EXTINF:-1 tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメLIVEチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="chibimaruko" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chibimaruko/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ちびまる子ちゃんチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
-
 #EXTINF:-1 tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,あたしンちチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chiikawa" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chiikawa/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ちいかわチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/chiikawa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメ ポケットモンスターチャンネル1
 https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
@@ -70,9 +64,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.
 
 #EXTINF:-1 tvg-id="dragonball" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ドラゴンボールチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/dragonball/playlist.m3u8
-
-#EXTINF:-1 tvg-id="hokuto-no-ken" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hokuto-no-ken/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,北斗の拳チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/hokuto-no-ken/playlist.m3u8
 
 #EXTINF:-1 tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,なつかしアニメ80's
 https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
@@ -121,6 +112,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3
 
 #EXTINF:-1 tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,MOTOR SPORTチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,SPORTS LIVE1 チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/world-sports-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sumo" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,大相撲チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
