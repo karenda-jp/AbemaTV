@@ -23,7 +23,8 @@ javascriptの力で放送中のプレビューを生成する?<br/>
 
 IPTVnatorでリストを再生した際の動画  ↓<br/>
 
-[!['動画']('https://www.gstatic.com/youtube/img/creator/favicon/favicon_144_v2.png')]('https://youtu.be/UabBvfok2SI')
+[![](https://img.youtube.com/vi/UabBvfok2SI/0.jpg)](https://www.youtube.com/watch?v=UabBvfok2SI)
+
 
 
 
