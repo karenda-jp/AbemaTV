@@ -21,9 +21,6 @@ javascriptの力で放送中のプレビューを生成する?<br/>
 
 <br/>
 
-IPTVnatorでリストを再生した際の動画  ↓<br/>
-
-[![](https://img.youtube.com/vi/UabBvfok2SI/0.jpg)](https://www.youtube.com/watch?v=UabBvfok2SI)
 
 
 IPTVnator Windows版は　setup.exe ↓　"fork改良　0.16.7"が私的におすすめ。　最新0.16.9は左側が伸びすぎ・・<br/>
