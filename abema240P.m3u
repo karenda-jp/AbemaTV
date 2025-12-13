@@ -113,9 +113,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3
 #EXTINF:-1 tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,MOTOR SPORTチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,SPORTS LIVE1 チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/world-sports-1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
 
