@@ -56,6 +56,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
 #EXTINF:-1 tvg-id="pokemon-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメ ポケットモンスターチャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="conan" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/conan/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,名探偵コナンチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/conan/playlist.m3u8
+
 #EXTINF:-1 tvg-id="onepiece" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/onepiece/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ONE PIECEチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
 
@@ -107,8 +110,14 @@ https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8
 #EXTINF:-1 tvg-id="shogi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,将棋チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mahjong-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,麻雀チャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/mahjong-2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,SPORTSチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,MOTOR SPORTチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
