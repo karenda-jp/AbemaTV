@@ -5,6 +5,12 @@ https://linear-abematv.akamaized.net/preview/channel/30h-1/playlist.m3u8
 #EXTINF:-1 tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA NEWSチャンネル
 https://linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
 
+#EXTINF:-1 tvg-id="30h-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/30h-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,30時間限界突破フェス コムドット
+https://linear-abematv.akamaized.net/preview/channel/30h-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30h-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/30h-3/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,30時間限界突破フェス 無料大放出
+https://linear-abematv.akamaized.net/preview/channel/30h-3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA NEWS会見チャンネル
 https://linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
 
@@ -29,9 +35,6 @@ https://linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u
 #EXTINF:-1 tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメSPECIAL2チャンネル
 https://linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="re-zero" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/re-zero/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,Re:ゼロから始める異世界生活チャンネル
-https://linear-abematv.akamaized.net/preview/channel/re-zero/playlist.m3u8
-
 #EXTINF:-1 tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメLIVEチャンネル
 https://linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
 
@@ -43,9 +46,6 @@ https://linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,あたしンちチャンネル
 https://linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="doraemon-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/doraemon-special/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,映画ドラえもん特集チャンネル
-https://linear-abematv.akamaized.net/preview/channel/doraemon-special/playlist.m3u8
 
 #EXTINF:-1 tvg-id="isekai-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,異世界・ファンタジーアニメチャンネル
 https://linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
@@ -133,9 +133,6 @@ https://linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,MOTOR SPORTチャンネル
 https://linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,SPORTS LIVE1 チャンネル
-https://linear-abematv.akamaized.net/preview/channel/world-sports-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,格闘チャンネル
 https://linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
