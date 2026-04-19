@@ -1,15 +1,6 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
-#EXTINF:-1 tvg-id="30h-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/30h-1/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,30時間限界突破フェスチャンネル
-https://linear-abematv.akamaized.net/preview/channel/30h-1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA NEWSチャンネル
 https://linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
-
-#EXTINF:-1 tvg-id="30h-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/30h-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,30時間限界突破フェス コムドット
-https://linear-abematv.akamaized.net/preview/channel/30h-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="30h-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/30h-3/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,30時間限界突破フェス 無料大放出
-https://linear-abematv.akamaized.net/preview/channel/30h-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA NEWS会見チャンネル
 https://linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
