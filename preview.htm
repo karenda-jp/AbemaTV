@@ -26,27 +26,16 @@ top: 10px;
 
 <script>
 let date = new Date();
+date.setSeconds(Math.floor(date.getSeconds() / 10) * 10);
+
 let year = date.getFullYear();
 let month = ("00" + (date.getMonth()+1)).slice(-2);
 let day = ("00" + date.getDate()).slice(-2);
 let hour = ("00" + date.getHours()).slice(-2);
 let min = ("00" + date.getMinutes()).slice(-2);
-let sec = ("00" + date.getSeconds()).slice(-2);
-let ss;
-if(sec <= 10) {
-ss = '10';
-}else if(sec <=20){
-ss = '20';
-}else if(sec <=30){
-ss = '30';
-}else if(sec <=40){
-ss = '40';
-}else if(sec <=50){
-ss = '50';
-}else{
-ss = '00';
-}
-var img_time = year+month+day+hour+min+ss;
+let ss = ("00" + date.getSeconds()).slice(-2);
+
+var img_time = year + month + day + hour + min + ss;
 document.write('<div class="shitani">');
 document.write("<img src='https://image.p-c2-x.abema-tv.com/media/channels/time/",img_time,"/abema-anime.webp?width=620' title='abema-anime'>");
 document.write('<a href="https://abema.tv/now-on-air/abema-anime" target="_blank"><img class="nakani" src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png?"></a>');

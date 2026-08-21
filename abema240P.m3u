@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+
 #EXTINF:-1 tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ABEMA アニメチャンネル
 https://linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
 
