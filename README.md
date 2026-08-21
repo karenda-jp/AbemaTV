@@ -23,11 +23,6 @@ javascriptの力で放送中のプレビューを生成する?<br/>
 
 
 
-IPTVnator Windows版は　setup.exe ↓　"fork改良　0.16.7"が私的におすすめ。　最新0.16.9は左側が伸びすぎ・・<br/>
-
-[Mikoshi-nyudo/iptvnator-electron](https://github.com/Mikoshi-nyudo/iptvnator-electron/)<br/>
-
-
 ※APIより直接取得した生データから生成しているため<br/>
 実際のサイトで表記を変更している場合は異なる可能性があります。<br/>
 
