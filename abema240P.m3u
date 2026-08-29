@@ -33,7 +33,7 @@ https://linear-abematv.akamaized.net/preview/channel/drama-4/playlist.m3u8
 #EXTINF:-1 tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,アニメSPECIAL2チャンネル
 https://linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kitaro" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/kitaro/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ゲゲゲの鬼太郎チャンネル
+#EXTINF:-1 tvg-id="kitaro" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/kitaro/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Anime" ,ゲゲゲの鬼太郎チャンネル
 https://linear-abematv.akamaized.net/preview/channel/kitaro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA SPECIALチャンネル
