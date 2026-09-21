@@ -9,6 +9,9 @@ https://linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8
 #EXTINF:-1 tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA NEWSチャンネル
 https://linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
 
+#EXTINF:-1 tvg-id="eyeshield" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/eyeshield/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,アイシールド21チャンネル
+https://linear-abematv.akamaized.net/preview/channel/eyeshield/playlist.m3u8
+
 #EXTINF:-1 tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ドラマ映画チャンネル2
 https://linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 
@@ -158,6 +161,9 @@ https://linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="asia-historical" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_Korea" ,韓国時代劇
 https://linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
+
+#EXTINF:-1 tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,MOTOR SPORTチャンネル
+https://linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sumo" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,大相撲チャンネル
 https://linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
